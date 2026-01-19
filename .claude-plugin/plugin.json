@@ -1,7 +1,7 @@
 {
-  "name": "spec-workflow",
+  "name": "claude-config",
   "version": "1.0.0",
-  "description": "Spec creation, sprint breakdown, coordinated implementation, and feature development with specialized agents",
+  "description": "Personal Claude Code config, workflows, agents, and utilities",
   "author": {
     "name": "iagoq"
   },
