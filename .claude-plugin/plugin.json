@@ -1,0 +1,10 @@
+{
+  "name": "spec-workflow",
+  "version": "1.0.0",
+  "description": "Spec creation, sprint breakdown, coordinated implementation, and feature development with specialized agents",
+  "author": {
+    "name": "iagoq"
+  },
+  "license": "MIT",
+  "keywords": ["specs", "planning", "sprints", "implementation", "feature-dev", "architecture"]
+}
