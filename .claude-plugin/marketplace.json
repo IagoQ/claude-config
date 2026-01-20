@@ -1,0 +1,17 @@
+{
+  "name": "iagoq-marketplace",
+  "owner": {
+    "name": "iagoq"
+  },
+  "plugins": [
+    {
+      "name": "claude-config",
+      "source": "..",
+      "description": "Personal Claude Code config, workflows, agents, and utilities",
+      "version": "1.0.0",
+      "author": {
+        "name": "iagoq"
+      }
+    }
+  ]
+}
